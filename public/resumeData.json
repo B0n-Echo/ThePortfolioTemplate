@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Nikhilesh Pandey",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe JavaScript",
+    "image": "profilepic.jpg",
+    "bio": "I have years of professional experience in Web Development as a Full-stack Developer and have experienced working with different teams on various technologies like Angular 4/5/6, Entity Framework, Typescript/Java-script, NodeJs, SQL Server, Scss, CSS, HTML5. I have worked among several sizes of Teams with agile methodologies, and have been a frequent user of tools like Github, Jira, and Trello.",
+    "contactmessage": "Get in touch with me if you want me to help you create a dashing web application",
+    "email": "nikhileshhpandey@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Pune",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PapaReact",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "IIT - PUNE",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "INFOSYS",
+        "title": "Senior Associate COnsultant",
+        "years": "Jan 2020 - Present",
+        "description": "Leading my team to create Quality and production ready application. I am responsibe for my teams productivity and incremental progress of the codebase with clean code and structural changes"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Melange-Meetups (Node Js)",
+        "category": "",
+        "image": "meetup.jpg",
+        "url": "https://github.com/B0n-Echo/Melange-Meetups"
+      },
+      {
+        "title": "Google Clone (React JS)",
+        "category": "",
+        "image": "google.jpg",
+        "url": "https://github.com/B0n-Echo/React-Google"
+      },
+      {
+        "title": "Travel-Journal (Angular Js)",
+        "category": "",
+        "image": "travel.jpg",
+        "url": "https://github.com/B0n-Echo/Travel-Journal"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nikhilesh is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Nikhilesh has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
